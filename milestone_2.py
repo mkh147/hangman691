@@ -19,7 +19,4 @@ if len(guess) == 1 and guess.isalpha():
 
 else:
     print("Oops! That is not a valid input.")
-    re_try = input("Please enter a single letter: ")
-
-guess = re_try
 
